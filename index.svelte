@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <title>Ruby on Rails</title>
+  <title>You're on Rails</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
    <link href="style.php" rel="stylesheet" type="text/php" />
